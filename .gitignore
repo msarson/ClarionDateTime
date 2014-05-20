@@ -1,0 +1,10 @@
+obj/
+source/
+*.*
+!.gitignore
+!*.build
+!*.cwproj
+!*.dct
+!*.sln
+!*.apv
+!up_vcsettings.ini
